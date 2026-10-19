@@ -1,0 +1,325 @@
+{
+  "_note": "PRIVATE catalog. Never served to browsers. Put each product's Canva 'template link' in deliveryUrl (previewUrl is the public demo link).",
+  "products": [
+    {
+      "id": "garden-suite",
+      "name": "Garden Suite",
+      "price": 399,
+      "category": "invitation",
+      "available": true,
+      "previewUrl": "https://vt.tiktok.com/ZSVfKcaxm/",
+      "image": "store/Wedding Invitation.webp",
+      "deliveryUrl": ""
+    },
+    {
+      "id": "invitation-1",
+      "name": "Invitation #1",
+      "price": 399,
+      "category": "invitation",
+      "available": true,
+      "previewUrl": "https://vt.tiktok.com/ZSVfKcaxm/",
+      "image": "store/Wedding Invitation.webp",
+      "deliveryUrl": ""
+    },
+    {
+      "id": "invitation-2",
+      "name": "Invitation #2",
+      "price": 399,
+      "category": "invitation",
+      "available": true,
+      "previewUrl": "https://vt.tiktok.com/ZSVfo5Vvk/",
+      "image": "store/Wedding Invitation 2.webp",
+      "deliveryUrl": ""
+    },
+    {
+      "id": "minimal-letters",
+      "name": "Minimal Letters",
+      "price": 399,
+      "category": "invitation",
+      "available": true,
+      "previewUrl": "https://vt.tiktok.com/ZSVfo5Vvk/",
+      "image": "store/Wedding Invitation 2.webp",
+      "deliveryUrl": ""
+    },
+    {
+      "id": "olive-branch-details-card",
+      "name": "Olive Branch Details Card",
+      "price": 999,
+      "category": "printable",
+      "available": false,
+      "previewUrl": "https://khyxxdigitals.my.canva.site/template",
+      "image": "store/Wedding Invitation 2.webp",
+      "deliveryUrl": ""
+    },
+    {
+      "id": "romantic-vows",
+      "name": "Romantic Vows",
+      "price": 399,
+      "category": "invitation",
+      "available": true,
+      "previewUrl": "https://vt.tiktok.com/ZSVfKcaxm/",
+      "image": "store/Wedding Invitation.webp",
+      "deliveryUrl": ""
+    },
+    {
+      "id": "template-1",
+      "name": "Template #1",
+      "price": 899,
+      "category": "website",
+      "available": true,
+      "previewUrl": "https://khyxxdigitals.my.canva.site/template",
+      "image": "store/Screenshot 2026-08-21 185614.png",
+      "deliveryUrl": ""
+    },
+    {
+      "id": "velvet-luxe",
+      "name": "Velvet Luxe",
+      "price": 399,
+      "category": "invitation",
+      "available": true,
+      "previewUrl": "https://khyxxdigitals.my.canva.site/template",
+      "image": "store/Screenshot 2026-08-21 185614.png",
+      "deliveryUrl": ""
+    },
+    {
+      "id": "wwt-amalfi-coast",
+      "name": "WWT - AMALFI COAST",
+      "price": 899,
+      "category": "website",
+      "available": true,
+      "previewUrl": "https://khyxxdigitals.my.canva.site/template",
+      "image": "store/Screenshot 2026-08-21 185614.png",
+      "deliveryUrl": ""
+    },
+    {
+      "id": "wwt-brown",
+      "name": "WWT - BROWN",
+      "price": 899,
+      "category": "website",
+      "available": true,
+      "previewUrl": "https://khyxxdigitals.my.canva.site/template",
+      "image": "store/Screenshot 2026-08-21 185614.png",
+      "deliveryUrl": ""
+    },
+    {
+      "id": "wwt-cherry-blossom",
+      "name": "WWT - CHERRY BLOSSOM",
+      "price": 899,
+      "category": "website",
+      "available": true,
+      "previewUrl": "https://khyxxdigitals.my.canva.site/wwt-cherry-blossom-by-khyxx-digitals",
+      "image": "store/Screenshot 2026-08-21 185614.png",
+      "deliveryUrl": ""
+    },
+    {
+      "id": "wwt-coastal-vibe-theme",
+      "name": "WWT - COASTAL VIBE THEME",
+      "price": 899,
+      "category": "website",
+      "available": true,
+      "previewUrl": "https://khyxxdigitals.my.canva.site/template",
+      "image": "store/Screenshot 2026-08-21 185614.png",
+      "deliveryUrl": ""
+    },
+    {
+      "id": "wwt-dusty-blue",
+      "name": "WWT - DUSTY BLUE",
+      "price": 899,
+      "category": "website",
+      "available": true,
+      "previewUrl": "https://khyxxdigitals.my.canva.site/template",
+      "image": "store/Screenshot 2026-08-21 185614.png",
+      "deliveryUrl": ""
+    },
+    {
+      "id": "wwt-dusty-blue-x-beige",
+      "name": "WWT - DUSTY BLUE X BEIGE",
+      "price": 899,
+      "category": "website",
+      "available": true,
+      "previewUrl": "https://khyxxdigitals.my.canva.site/template",
+      "image": "store/Screenshot 2026-08-21 185614.png",
+      "deliveryUrl": ""
+    },
+    {
+      "id": "wwt-lavender",
+      "name": "WWT - LAVENDER",
+      "price": 899,
+      "category": "website",
+      "available": true,
+      "previewUrl": "https://khyxxdigitals.my.canva.site/wwt-lavender-by-khyxx-digitals",
+      "image": "store/Screenshot 2026-08-21 185614.png",
+      "deliveryUrl": ""
+    },
+    {
+      "id": "wwt-minimalist-dusty-blue",
+      "name": "WWT - MINIMALIST DUSTY BLUE",
+      "price": 899,
+      "category": "website",
+      "available": true,
+      "previewUrl": "https://khyxxdigitals.my.canva.site/template",
+      "image": "store/Screenshot 2026-08-21 185614.png",
+      "deliveryUrl": ""
+    },
+    {
+      "id": "wwt-navy-blue-x-white",
+      "name": "WWT - NAVY BLUE X WHITE",
+      "price": 899,
+      "category": "website",
+      "available": true,
+      "previewUrl": "https://khyxxdigitals.my.canva.site/wwt-navy-blue-x-white-by-khyxx-digitals",
+      "image": "store/Screenshot 2026-08-21 185614.png",
+      "deliveryUrl": ""
+    },
+    {
+      "id": "wwt-olive-x-burgundy",
+      "name": "WWT - OLIVE X BURGUNDY",
+      "price": 899,
+      "category": "website",
+      "available": true,
+      "previewUrl": "https://khyxxdigitals.my.canva.site/template",
+      "image": "store/Screenshot 2026-08-21 185614.png",
+      "deliveryUrl": ""
+    },
+    {
+      "id": "wwt-pastel-bloomcore",
+      "name": "WWT - PASTEL BLOOMCORE",
+      "price": 899,
+      "category": "website",
+      "available": true,
+      "previewUrl": "https://khyxxdigitals.my.canva.site/wwt-pastel-bloomcore-by-khyxx-digitals",
+      "image": "store/Screenshot 2026-08-21 185614.png",
+      "deliveryUrl": ""
+    },
+    {
+      "id": "wwt-pink-pastel",
+      "name": "WWT - PINK PASTEL",
+      "price": 899,
+      "category": "website",
+      "available": true,
+      "previewUrl": "https://khyxxdigitals.my.canva.site/wwt-pink-pastel-by-khyxx-digitals",
+      "image": "store/Screenshot 2026-08-21 185614.png",
+      "deliveryUrl": ""
+    },
+    {
+      "id": "wwt-pink-x-gold",
+      "name": "WWT - PINK X GOLD",
+      "price": 899,
+      "category": "website",
+      "available": true,
+      "previewUrl": "https://khyxxdigitals.my.canva.site/wwt-pink-x-gold-by-khyxx-digitals",
+      "image": "store/Screenshot 2026-08-21 185614.png",
+      "deliveryUrl": ""
+    },
+    {
+      "id": "wwt-powder-blue",
+      "name": "WWT - POWDER BLUE",
+      "price": 899,
+      "category": "website",
+      "available": true,
+      "previewUrl": "https://khyxxdigitals.my.canva.site/wwt-powder-blue-by-khyxx-digitals",
+      "image": "store/Screenshot 2026-08-21 185614.png",
+      "deliveryUrl": ""
+    },
+    {
+      "id": "wwt-red-roses",
+      "name": "WWT - RED ROSES",
+      "price": 899,
+      "category": "website",
+      "available": true,
+      "previewUrl": "https://khyxxdigitals.my.canva.site/template",
+      "image": "store/Screenshot 2026-08-21 185614.png",
+      "deliveryUrl": ""
+    },
+    {
+      "id": "wwt-rustic-x-boho",
+      "name": "WWT - RUSTIC X BOHO",
+      "price": 899,
+      "category": "website",
+      "available": true,
+      "previewUrl": "https://khyxxdigitals.my.canva.site/template",
+      "image": "store/Screenshot 2026-08-21 185614.png",
+      "deliveryUrl": ""
+    },
+    {
+      "id": "wwt-spring",
+      "name": "WWT - SPRING",
+      "price": 899,
+      "category": "website",
+      "available": true,
+      "previewUrl": "https://khyxxdigitals.my.canva.site/template",
+      "image": "store/Screenshot 2026-08-21 185614.png",
+      "deliveryUrl": ""
+    },
+    {
+      "id": "wwt-strawberry-x-matcha",
+      "name": "WWT - STRAWBERRY X MATCHA",
+      "price": 899,
+      "category": "website",
+      "available": true,
+      "previewUrl": "https://khyxxdigitals.my.canva.site/wwt-strawberry-x-matcha-by-khyxx-digitals",
+      "image": "store/Screenshot 2026-08-21 185614.png",
+      "deliveryUrl": ""
+    },
+    {
+      "id": "wwt-tropical",
+      "name": "WWT - TROPICAL",
+      "price": 899,
+      "category": "website",
+      "available": true,
+      "previewUrl": "https://khyxxdigitals.my.canva.site/template",
+      "image": "store/Screenshot 2026-08-21 185614.png",
+      "deliveryUrl": ""
+    },
+    {
+      "id": "wwt-whimsical-x-sailor-theme",
+      "name": "WWT - WHIMSICAL X SAILOR THEME",
+      "price": 899,
+      "category": "website",
+      "available": true,
+      "previewUrl": "https://khyxxdigitals.my.canva.site/wwt-whimsical-x-sailor-theme-by-khyxx-digitals",
+      "image": "store/Screenshot 2026-08-21 185614.png",
+      "deliveryUrl": ""
+    },
+    {
+      "id": "wwt-white-x-lavender",
+      "name": "WWT - WHITE X LAVENDER",
+      "price": 899,
+      "category": "website",
+      "available": true,
+      "previewUrl": "https://khyxxdigitals.my.canva.site/wwt-white-x-lavender-by-khyxx-digitals",
+      "image": "store/Screenshot 2026-08-21 185614.png",
+      "deliveryUrl": ""
+    },
+    {
+      "id": "wwt-emerald-x-brown",
+      "name": "WWT- EMERALD X BROWN",
+      "price": 899,
+      "category": "website",
+      "available": true,
+      "previewUrl": "https://khyxxdigitals.my.canva.site/template",
+      "image": "store/Screenshot 2026-08-21 185614.png",
+      "deliveryUrl": ""
+    },
+    {
+      "id": "wwt-olive-x-brown",
+      "name": "WWT- OLIVE X BROWN",
+      "price": 899,
+      "category": "website",
+      "available": true,
+      "previewUrl": "https://khyxxdigitals.my.canva.site/template",
+      "image": "store/Screenshot 2026-08-21 185614.png",
+      "deliveryUrl": ""
+    },
+    {
+      "id": "wwt-pastel-x-blue-spring",
+      "name": "WWT- PASTEL X BLUE SPRING",
+      "price": 899,
+      "category": "website",
+      "available": true,
+      "previewUrl": "https://khyxxdigitals.my.canva.site/template",
+      "image": "store/Screenshot 2026-08-21 185614.png",
+      "deliveryUrl": ""
+    }
+  ]
+}
