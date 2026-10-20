@@ -2870,3 +2870,54 @@ footer a,
     grid-template-columns: minmax(0, 1fr);
   }
 }
+
+/* Two product columns on cellphone screens */
+
+@media (max-width: 760px) {
+  .product-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+  }
+
+  .product {
+    min-width: 0;
+  }
+
+  .product-image {
+    padding: 10px;
+    font-size: 1.1rem;
+  }
+
+  .product-meta {
+    display: block;
+    padding: 12px 8px 8px;
+  }
+
+  .product-meta p {
+    font-size: 0.82rem;
+    line-height: 1.45;
+    overflow-wrap: anywhere;
+  }
+
+  .product-meta small {
+    font-size: 0.68rem;
+    line-height: 1.5;
+  }
+
+  .product-meta strong {
+    display: block;
+    margin-top: 8px;
+    font-size: 0.78rem;
+  }
+
+  .add-to-cart {
+    width: calc(100% - 16px);
+    min-height: 44px;
+    margin: 0 8px 10px;
+    padding: 10px 6px;
+    font-size: 0.65rem;
+    letter-spacing: 0.05em;
+    line-height: 1.4;
+  }
+}
